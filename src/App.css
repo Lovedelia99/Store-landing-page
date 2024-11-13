@@ -1,0 +1,80 @@
+.App {
+  text-align: center;
+  background-color: rgb(232, 167, 250);
+  color: white;
+}
+
+/* input holder styling */
+.input {
+  color: rgb(12, 12, 12);
+  margin-top: 10px;
+  padding: 5px;
+}
+
+.register {
+  color: rgb(14, 14, 14);
+  margin-top: 10px;
+  padding: 5px;
+}
+
+/* both buttons in home component and register component */
+.login {
+  padding: 7px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  font-weight: 500;
+  background-color: grey;
+  border: 0px grey solid;
+  color: white;
+}
+
+.text {
+  margin-left: 35%;
+  width: 30%;
+  padding-top: 20px;
+  color: gray;
+}
+
+.price {
+  font-weight: 600;
+  font-size: xx-large;
+}
+
+/* used in about component */
+.footer {
+  background-color: rgb(94, 175, 242);
+  font-size: 16px;
+  font-weight: 500;
+  padding-bottom: 20px;
+  padding-top: 10px;
+}
+
+.col {
+  padding: 5px;
+  align-self: center;
+}
+
+/* total block in the right corner */
+.total {
+  position: fixed;
+  top: 44px;
+  right: 0px;
+  background-color: rgb(125, 124, 124);
+  padding: 15px;
+  color: white;
+}
+
+.label {
+  padding-right: 8px;
+  font-weight: 500;
+}
+
+.caption {
+  text-align: left;
+  font-size: 25px;
+}
+
+.about {
+  font-size: 20px;
+  text-align: left;
+}
